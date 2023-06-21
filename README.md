@@ -1,6 +1,6 @@
 # Student Face Recognition Project
 
-This project utilizes face recognition to perform various tasks such as face attendance and student information retrieval.
+This project is developed for campus security purposes to identify students of the college and detect strangers within the campus.
 
 ## Table of Contents
 - [Installation](#installation)
