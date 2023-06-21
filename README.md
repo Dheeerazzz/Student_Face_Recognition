@@ -7,7 +7,6 @@ This project utilizes face recognition to perform various tasks such as face att
 - [Usage](#usage)
 - [References](#references)
 - [Output Image](#output-image)
-- [License](#license)
 
 ## Installation
 
