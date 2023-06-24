@@ -52,6 +52,6 @@ This project is developed for campus security purposes to identify students of t
 
 ## Output Image
 
-![Output Image](abc)
+![Output Image](https://github.com/Dheeerazzz/Student_Face_Recognition/blob/master/sample/weeknd.png)
 
 
